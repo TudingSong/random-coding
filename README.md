@@ -1,4 +1,4 @@
-# Shopping Redirect
+# Shopping Redirect (random-coding)
 
 A project for shopping redirection functionality.
 
@@ -8,4 +8,4 @@ This repository contains code for handling shopping redirects and related functi
 
 ## Getting Started
 
-More details about setup and usage will be added as the project develops. 
+More details about setup and usage will be added as the project develops.
